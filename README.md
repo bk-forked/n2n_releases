@@ -8,4 +8,3 @@
 * Forked from [lucktu/n2n](https://github.com/lucktu/n2n)
 * Rename README.md to README_BAK.md
 * Create README.md
-.
